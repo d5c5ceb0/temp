@@ -33,7 +33,7 @@ export default function Page() {
               width={1000}
               height={760}
               className="hidden md:block"
-              alt="dashborad"
+              alt="Screenshots of the dashboard project showing desktop version"
           />
         </div>
       </div>
